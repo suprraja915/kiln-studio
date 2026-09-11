@@ -3,7 +3,7 @@
 A homepage for a fictional small-studio design agency, built for the Next.js
 developer internship task.
 
-Live: _add your Vercel URL here after deploying_
+Live: https://kiln-studio-six.vercel.app/
 
 ## Concept
 
